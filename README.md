@@ -8,7 +8,7 @@ Swift String Algorithms made in Playgrounds
 
 ##PigLatin
 You are to create a function that returns a string in PigLatin language. Rules:
-* If a word begins with a __consonant__, move this consonant to the __end__ of the word and add __"ay"__ in the end. Ex: *"happy"* -> *"appyay"*
+* If a word begins with a __consonant__, move this consonant to the __end__ of the word and add __"ay"__ in the end. Ex: *"happy"* -> *"appyhay"*
 * If a word begins with a __vowel__, add *"way"* in the __end__. Ex: *"another"* -> *"anotherway"*
 
 ##Palindrome Strings
