@@ -52,7 +52,7 @@ func reverseCharactersForString(string:String) -> String
 }
 
 //Calling the Method
-let sentenceToCheck = "Go hang a salami Im a lasagna hog"
+let sentenceToCheck = "I Like Swift"
 let result = isAPalindrome(sentenceToCheck)
 
 if result == true

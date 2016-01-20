@@ -10,7 +10,7 @@ You are to create a function that returns the string backwards. Ex:
 func reverseCharactersForString(string:String) -> String
 {
   var result = ""
-
+  
   for char in string.characters
   {
     result = String(char) + result
@@ -21,8 +21,8 @@ func reverseCharactersForString(string:String) -> String
 }
 
 //Calling the Method
-let stringToReverse = "Potato"
+let stringToReverse = "racecar"
 let result = reverseCharactersForString(stringToReverse)
-print("   \(stringToReverse) backwards is \(result)   ")
+"   \(stringToReverse) backwards is \(result)   "
 
 //: [Next](@next)
