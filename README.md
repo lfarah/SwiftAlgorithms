@@ -1,12 +1,23 @@
 # SwiftAlgorithms
 Swift String Algorithms made in Playgrounds
 
-##Reverse String
-####You are to create a function that returns the string backwards. Ex:
+
+##Easy
+###Reverse String
+You are to create a function that returns the string backwards. Ex:
 * Input: "Potato"
 * Output: "otatoP"
 
-##PigLatin
+###Time Converter
+Convert time from 12-hour to 24-hour format.
+You are to create a funcion that returns a String with the 12-hour converted format
+* Input: "08:25PM"
+* Output: "20:25"
+* Input: "06:42AM"
+* Output: "06:42"
+
+##Medium
+###PigLatin
 You are to create a function that returns a string in PigLatin language. Rules:
 * If a word begins with a __consonant__, move this consonant to the __end__ of the word and add __"ay"__ in the end. Ex: *"happy"* -> *"appyhay"*
 * If a word begins with a __vowel__, add *"way"* in the __end__. Ex: *"another"* -> *"anotherway"*
@@ -24,10 +35,3 @@ You are to create a function that returns the sentence backwards, reversing the 
 * Input: "The Boy is ten years old"
 * Output: "old years ten is Boy The"
 
-##Time Converter
-Convert time from 12-hour to 24-hour format.
-You are to create a funcion that returns a String with the 12-hour converted format
-* Input: "08:25PM"
-* Output: "20:25"
-* Input: "06:42AM"
-* Output: "06:42"
