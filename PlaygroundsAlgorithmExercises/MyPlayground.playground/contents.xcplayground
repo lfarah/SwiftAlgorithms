@@ -6,5 +6,6 @@
         <page name='PigLatin'/>
         <page name='ReverseWords'/>
         <page name='PalindromeStrings'/>
+        <page name='TimeConverter'/>
     </pages>
 </playground>
