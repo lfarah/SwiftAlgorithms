@@ -23,3 +23,11 @@ Definition: "A palindrome is a word, phrase, number, or other sequence of charac
 You are to create a function that returns the sentence backwards, reversing the words in the string. Ex:
 * Input: "The Boy is ten years old"
 * Output: "old years ten is Boy The"
+
+##Time Converter
+Convert time from 12-hour to 24-hour format.
+You are to create a funcion that returns a String with the 12-hour converted format
+* Input: "08:25PM"
+* Output: "20:25"
+* Input: "06:42AM"
+* Output: "06:42"
