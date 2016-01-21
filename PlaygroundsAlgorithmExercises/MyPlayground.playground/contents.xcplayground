@@ -7,5 +7,6 @@
         <page name='ReverseWords'/>
         <page name='PalindromeStrings'/>
         <page name='TimeConverter'/>
+        <page name='PlusMinus'/>
     </pages>
 </playground>
