@@ -16,6 +16,12 @@ You are to create a funcion that returns a String with the 12-hour converted for
 * Input: "06:42AM"
 * Output: "06:42"
 
+###Plus Minus
+Calculate how many nubers are *positive*, *negative* and *zeros*
+Given an array of integers, calculate which fraction of the elements are positive, negative, and zeroes, respectively. Print the decimal value of each fraction.
+* Input:  [-4 3 -9 0 4 1]
+* Output: [0.500000,0.333333,0.166667]
+
 ##Medium
 ###PigLatin
 You are to create a function that returns a string in PigLatin language. Rules:
