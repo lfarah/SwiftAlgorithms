@@ -22,6 +22,31 @@ Given an array of integers, calculate which fraction of the elements are positiv
 * Input:  [-4 3 -9 0 4 1]
 * Output: [0.500000,0.333333,0.166667]
 
+### Sum of all characters
+You are to create a function that given an array of Integers, return the sum of all of the numbers
+* Input:  [1,2,3,4,5]
+* Output: [15]
+
+Explanation:
+* 1 + 2 + 3 + 4 + 5 = 15
+
+### Number Exterminator
+You are to create a function that have two inputs: an array of Integers and a number inside the array you wish to remove
+* Input:  [1,2,3,4,5], 3
+* Output: [1,2,4,5]
+* Input:  [1,2,3,4,5,3,2,4,1], 2
+* Output: [1,3,4,5,3,4,1]
+
+Explanation
+ * You need to remove all instances of the selected number from the array
+
+### Largest Number
+You are to create a function that given an input of an Array of Integers, returns the largest number inside the Array
+* Input:  [1,2,3,4,5]
+* Output: 5
+* Input:  [1,3,5,2,4,9,6,7]
+* Output: 9
+
 ##Medium
 ###PigLatin
 You are to create a function that returns a string in PigLatin language. Rules:
