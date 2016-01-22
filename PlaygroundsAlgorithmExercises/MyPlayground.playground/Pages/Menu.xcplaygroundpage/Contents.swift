@@ -1,7 +1,13 @@
 //: # Contents
-//: ## [1. Reverse Characters in String](ReverseCharacters)
-//: ## [2. Time Converter](TimeConverter)
+//: ## Easy
+//: ## [Largest Number](LargestNum)
+//: ## [Number Exterminator](NumberExterminator)
+//: ## [Get Sum](GetSum)
+//: ## [Plus Minus](PlusMinus)
+//: ## [Reverse Characters in String](ReverseCharacters)
+//: ## [Time Converter](TimeConverter)
+//: ## Medium
 //: ## [2. Pig Latin](PigLatin)
-//: ## [3. Reverse  Words](ReverseWords)
+//: ## Hard
 //: ## [4. Palindrome Strings](PalindromeStrings)
-//: ## [5. Time Converter](TimeConverter)
+//: ## [3. Reverse  Words](ReverseWords)
