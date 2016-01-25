@@ -22,7 +22,7 @@ Given an array of integers, calculate which fraction of the elements are positiv
 * Input:  [-4 3 -9 0 4 1]
 * Output: [0.500000,0.333333,0.166667]
 
-### Sum of all characters
+### Sum of all numbers
 You are to create a function that given an array of Integers, return the sum of all of the numbers
 * Input:  [1,2,3,4,5]
 * Output: [15]
