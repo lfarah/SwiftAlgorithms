@@ -6,6 +6,7 @@
 //: ## [Plus Minus](PlusMinus)
 //: ## [Reverse Characters in String](ReverseCharacters)
 //: ## [Time Converter](TimeConverter)
+//: ## [Character Remover](CharacterRemover)
 //: ## Medium
 //: ## [2. Pig Latin](PigLatin)
 //: ## Hard
