@@ -7,6 +7,7 @@
 //: ## [Reverse Characters in String](ReverseCharacters)
 //: ## [Time Converter](TimeConverter)
 //: ## [Character Remover](CharacterRemover)
+//: ## [Average Calculator](AverageCalculator)
 //: ## Medium
 //: ## [2. Pig Latin](PigLatin)
 //: ## Hard

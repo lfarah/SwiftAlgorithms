@@ -2,7 +2,7 @@
 /*:
 # Convert time from 12-hour to 24-hour format
 ## Description
-You are to create a funcion that returns a String with the 12-hour converted format
+You are to create a funcion that returns a String with the 24-hour converted format
 * Input: "08:25PM"
 * Output: "20:25"
 * Input: "06:42AM"

@@ -11,6 +11,7 @@
         <page name='GetSum'/>
         <page name='NumberExterminator'/>
         <page name='LargestNum'/>
+        <page name='AverageCalculator'/>
         <page name='CharacterRemover'/>
     </pages>
 </playground>
