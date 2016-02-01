@@ -8,6 +8,7 @@
 //: ## [Time Converter](TimeConverter)
 //: ## [Character Remover](CharacterRemover)
 //: ## [Average Calculator](AverageCalculator)
+//: ## [Factorial Calculator](FactorialCalculator)
 //: ## Medium
 //: ## [2. Pig Latin](PigLatin)
 //: ## Hard
